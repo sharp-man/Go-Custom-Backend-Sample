@@ -1,6 +1,6 @@
 ## Getting Started
 
-> [[Technologies](#technologies-used) &middot;  &middot; [Installations](#installations) &middot; &middot; [Tests](#tests) &middot; [Author](#author)
+> [[Technologies](#technologies-used) &middot;  &middot; [Installations](#installations) &middot; &middot; [Tests](#tests) &middot;
 
 
 ## Technologies Used
@@ -93,11 +93,3 @@
   ```shell
   $ docker-compose -f docker-compose.test.yml up --build 
   ```
-
-
-## Author
-
-- Steven Victor
-- medium: medium.com/@victorsteven  
-- twitter: twitter.com/stevensunflash  
-- linkedin: linkedin.com/in/stevenchikodi
