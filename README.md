@@ -1,6 +1,6 @@
 ## Getting Started
 
-> [[Technologies](#technologies-used) &middot;  &middot; [Installations](#installations) &middot; &middot; [Tests](#tests)
+> [[Technologies](#technologies-used) &middot;  &middot; [Installations](#installations) &middot; &middot; [Tests](#tests)]
 
 
 ## Technologies Used
