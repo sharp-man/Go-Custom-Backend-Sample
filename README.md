@@ -1,8 +1,3 @@
-### Forum-App-Go-Backend  [![CircleCI](https://circleci.com/gh/victorsteven/Forum-App-Go-Backend.svg?style=svg)](https://circleci.com/gh/victorsteven/Forum-App-Go-Backend)
- 
-
-> This is a forum API built with Golang
-
 ## Getting Started
 
 > [[Technologies](#technologies-used) &middot;  &middot; [Installations](#installations) &middot; &middot; [Tests](#tests) &middot; [Author](#author)
