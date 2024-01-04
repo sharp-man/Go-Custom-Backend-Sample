@@ -16,8 +16,6 @@
 - [AWS](https://aws.amazon.com).
 - [Circleci](https://circleci.com).
 
-
-
 ## Installations
 
 ### Clone
